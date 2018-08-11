@@ -1,2 +1,2 @@
-# CourseEra-Module2-Assgn
+# CourseEra-Module2-Assignment
 Module 2 Assignment
